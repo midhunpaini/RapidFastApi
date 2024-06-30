@@ -1,0 +1,36 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python virtual environments
+rapidfast/
+env/
+.rapidfast/
+.env/
+
+# Pipenv environment
+Pipfile.lock
+
+# IDE/Editor-specific files
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Local configuration files
+.env.local
+
+# Environment variables
+.env
